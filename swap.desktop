@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Swap
+Exec=xmodmap -e "keycode 9 = Escape asciitilde Escape asciitilde"
+Terminal=false
+Type=Application
