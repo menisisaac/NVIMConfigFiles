@@ -1,1 +1,1 @@
-# nvim-config
+# Arch/Development Config
